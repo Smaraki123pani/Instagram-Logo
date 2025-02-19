@@ -21,7 +21,7 @@ A creative **Instagram Logo Recreation** using **HTML and CSS**. This project vi
 ## 📂 Project Structure
 
 ```
-📁 instagram-logo/
+📁 Instagram-Logo/
  ├── 📄 index.html       # Main HTML file
  ├── 📄 style.css        # CSS file for styling
  ├── 📄 README.md        # Project documentation
